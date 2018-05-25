@@ -1,0 +1,2 @@
+Color:NGR000;Consumo previsto:671
+Color:ROJ255;Consumo previsto:671

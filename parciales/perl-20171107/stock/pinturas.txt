@@ -1,0 +1,2 @@
+NGR000,Negro Basico,1867
+ROJ255,Rojo Fuerte,987
