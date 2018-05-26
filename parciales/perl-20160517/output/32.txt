@@ -1,0 +1,3 @@
+Clave=SubgeneroDeMuchos2 Cantidad de entradas=4
+Clave=indeterminado Cantidad de entradas=2
+Clave=SubgeneroDeMuchos3 Cantidad de entradas=4
