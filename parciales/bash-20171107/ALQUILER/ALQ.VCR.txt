@@ -1,0 +1,4 @@
+6,12,Av. Warnes 1000,5000
+7,11,Av. Warnes 1001,87
+8,10,Av. Warnes 1020,99
+9,12,Av. Warnes 1040,7800

@@ -1,0 +1,4 @@
+1,12,Av. La Plata 100,5000
+2,11,Av. La Plata 101,5300
+3,10,Av. La Plata 102,4800
+4,12,Av. La Plata 104,7800
