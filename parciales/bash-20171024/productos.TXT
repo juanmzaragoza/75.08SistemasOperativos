@@ -1,0 +1,7 @@
+PRD1;Producto descripcion;9
+PRD2;Producto descripcion;10
+PRD3;Producto descripcion;10
+PRD4;Producto descripcion;10
+PRD5;Producto descripcion;10
+PRD6;Producto descripcion;10
+PRD7;Producto descripcion;10
