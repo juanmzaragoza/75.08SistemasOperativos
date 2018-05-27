@@ -27,10 +27,10 @@ do
 				IMPORTETOTAL=`echo "$IMPORTE + $IMPORTETOTAL" | bc`
 			done < "$fileSucursalName"
 
-			if [[ "$IMPORTETOTAL" -gt "$SUCURSALPROMEDIO" ]]
+			if [ "$IMPORTETOTAL" -gt "$SUCURSALPROMEDIO" ]
 			then
 				COMPARACION="MAYOR"
-			elif [[ $IMPORTETOTAL -eq $SUCURSALPROMEDIO ]]
+			elif [ $IMPORTETOTAL -eq $SUCURSALPROMEDIO ]
 			then
 				COMPARACION="IGUAL"
 			else
