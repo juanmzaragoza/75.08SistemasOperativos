@@ -1,0 +1,5 @@
+martes;pag1;1546
+martes;pag45;25
+lunes;pag10;6476
+jueves;pag1;658
+lunes;pag3;77

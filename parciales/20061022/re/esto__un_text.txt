@@ -1,0 +1,6 @@
+Hola esto es un texto	demostrativo 	lo que
+hace el script parse.sh. Para probar	el	parser.sh
+solo hay 			que ejecutar 					
+					parser.sh esto__es_text.txt y ver			
+					resultad
+   en temp!
