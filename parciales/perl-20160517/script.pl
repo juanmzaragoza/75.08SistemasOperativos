@@ -19,7 +19,7 @@ sub obtenerSubgenero {
 
 %acumulado = ();
 $sizeParams = @ARGV;
-if($sizeParams > 2){
+if($sizeParams > 2 || $sizeParams < 2){
 	die "Debe ingresar exatamente 2 parametros\n";
 }
 
@@ -33,7 +33,6 @@ while(<$dir/*.dat>){
 die "El directorio $dir no tiene archivos de espectadores" if $isEmpty;
 
 while(<$dir/*.dat>){
-	
 	open(ESPECTADORESFILE,"<$_") || die "No se pudo abrir $_\n";
 
 	while($lineEspectador=<ESPECTADORESFILE>){
